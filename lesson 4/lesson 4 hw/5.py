@@ -1,0 +1,12 @@
+countries = ['Italy', 'USA', 'France', 'England', 'Canada']
+print(countries)
+sorted(countries)
+print(countries)
+countries.reverse()
+print(countries)
+countries.reverse()
+print(countries)
+countries.sort()
+print(countries)
+countries.sort(reverse = 1)
+print(countries)
